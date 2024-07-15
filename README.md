@@ -12,11 +12,11 @@ The game features an arcade mode aiming for the highest score and a survival mod
 
 +Fast-paced box-popping action
 
-+Two engaging game modes: Arcade (high score) and Survival (endurance)
++Two engaging game modes: Arcade and Survival 
 
-+Simple and addictive gameplay mechanics
++Simple yet addictive gameplay mechanics
 
--Technologies Used: [List the game development tools and languages you used, e.g., Unity, C#, etc.]
+-Technologies Used: Unity, Asperite, sfxr, Github Desktop
 
 -Screenshots:
 
